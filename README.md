@@ -5,6 +5,9 @@
 [![Hardware: Open Source](https://img.shields.io/badge/Hardware-Open%20Source-brightgreen.svg)](https://www.oshwa.org/)
 [![Gerbers: Ready to Fabricate](https://img.shields.io/badge/Gerbers-Ready%20to%20Order-success.svg)](soic14-bb-gerbers.zip)
 
+> [!NOTE]
+> **Notice**: It's a work in progress, small changes are pending.
+
 A compact, breadboard-friendly breakout adapter PCB for **14-pin SOIC Microchip ATtiny** microcontrollers (such as **ATtiny3224, ATtiny1624, ATtiny824, ATtiny424**, as well as 1-series and 0-series parts like **ATtiny1614, ATtiny814, ATtiny414, ATtiny404, ATtiny214, ATtiny204**).
 
 Designed to bridge the gap between SMD SOIC-14 packaging and rapid breadboard prototyping, this board breaks out all 14 pins into a standard 600 mil DIP form factor with onboard decoupling capacitors for noise-free, stable operation.

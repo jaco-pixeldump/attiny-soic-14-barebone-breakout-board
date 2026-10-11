@@ -1,0 +1,19 @@
+# KiCad project files to ignore
+*.kicad_prl
+*.bak
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*~
+*.lck
+
+# KiCad cache & temp files
+fp-info-cache
+kicad_advanced
+*.rpt
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
